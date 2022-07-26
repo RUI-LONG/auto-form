@@ -25,7 +25,7 @@ This tiny project is to save time for something worthwhile and meaningful.
   珍妮佛蘿蔔絲
   A班
   ```
-  3. Click form.exe to run.
+  3. Click auto-form/packed/dist/form.exe to run.
 
 # Notice
 
